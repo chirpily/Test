@@ -6,5 +6,5 @@ This is a private project with USD10000000000 sponsorship from Donald Trump. Wel
 
 ## Collaborators
 
-Head: Kevin Cheng
+Head: Kevin Cheng \\
 Servant: Chirpily
